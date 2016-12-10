@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Foos bot is here to keep track of all your foosball (or any 4 player game) and suggest team matchups.",
   "scripts": {
-    "watch": "nodemon server.js",
+    "debug": "node --inspect index.js",
+    "watch": "nodemon index.js",
     "test": "standard"
   },
   "repository": {
