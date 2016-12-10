@@ -1,21 +1,21 @@
 {
-  "name": "starter-slapp-app",
+  "name": "foos-bot-app",
   "version": "1.0.0",
-  "description": "Basic Slack app using the Slapp library and Slack Events API",
+  "description": "Foos bot is here to keep track of all your foosball (or any 4 player game) and suggest team matchups.",
   "scripts": {
     "watch": "nodemon server.js",
     "test": "standard"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BeepBoopHQ/starter-slapp-app.git"
+    "url": "git+https://github.com/michaeljacobdavis/foos-bot-app.git"
   },
   "author": "Brad Harris",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BeepBoopHQ/starter-slapp-app/issues"
+    "url": "https://github.com/michaeljacobdavis/foos-bot-app/issues"
   },
-  "homepage": "https://github.com/BeepBoopHQ/starter-slapp-app#readme",
+  "homepage": "https://github.com/michaeljacobdavis/foos-bot-app#readme",
   "dependencies": {
     "express": "^4.14.0",
     "nodemon": "^1.11.0",
